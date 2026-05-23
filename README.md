@@ -1,2 +1,2 @@
-# CentralLimitTheoremCalcular
+# CentralLimitTheoremCalculator
 Central Limit Theorem 
